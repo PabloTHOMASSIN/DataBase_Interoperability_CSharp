@@ -16,6 +16,10 @@ Thank you for joining us on this journey of Database Interoperability in C#!
 Best regards,
 
 ## Files explanation
-
+- BelleFleur.sql : DataBase raw data creation
+- Rapport Projet : Project Report in French
+- SCHEMA EA MYSQLWORKBENCH : MYSQL generated EA Scheme
+- THOMASSIN_THOMINE_SCHEMA_EA : Own-Design EA Scheme for the project
+  
 ## Aknowledgement
 This project is the conjoint work of : THOMINE Berenice, THOMASSIN Pablo
