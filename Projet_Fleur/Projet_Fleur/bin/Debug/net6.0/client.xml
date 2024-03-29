@@ -1,0 +1,102 @@
+<DocumentElement>
+  <client>
+    <id_client>1</id_client>
+    <nom>Dupont</nom>
+    <prenom>Jean</prenom>
+    <telephone>0123456789</telephone>
+    <courriel>jean.dupont@example.com</courriel>
+    <mot_de_passe>password1</mot_de_passe>
+    <adresse_facturation>123 Rue Principale</adresse_facturation>
+    <carte_credit>1234567890123456</carte_credit>
+  </client>
+  <client>
+    <id_client>2</id_client>
+    <nom>Martin</nom>
+    <prenom>Marie</prenom>
+    <telephone>0987654321</telephone>
+    <courriel>marie.martin@example.com</courriel>
+    <mot_de_passe>password2</mot_de_passe>
+    <adresse_facturation>456 Avenue Secondaire</adresse_facturation>
+    <carte_credit>9876543210987654</carte_credit>
+  </client>
+  <client>
+    <id_client>3</id_client>
+    <nom>Lefebvre</nom>
+    <prenom>Sophie</prenom>
+    <telephone>0123456789</telephone>
+    <courriel>sophie.lefebvre@example.com</courriel>
+    <mot_de_passe>password3</mot_de_passe>
+    <adresse_facturation>789 Boulevard Tertiaire</adresse_facturation>
+    <carte_credit>6543210987654321</carte_credit>
+  </client>
+  <client>
+    <id_client>4</id_client>
+    <nom>Dubois</nom>
+    <prenom>Pierre</prenom>
+    <telephone>0987654321</telephone>
+    <courriel>pierre.dubois@example.com</courriel>
+    <mot_de_passe>password4</mot_de_passe>
+    <adresse_facturation>321 Route Quaternaire</adresse_facturation>
+    <carte_credit>3210987654321098</carte_credit>
+  </client>
+  <client>
+    <id_client>5</id_client>
+    <nom>Bernard</nom>
+    <prenom>Julie</prenom>
+    <telephone>0123456789</telephone>
+    <courriel>julie.bernard@example.com</courriel>
+    <mot_de_passe>password5</mot_de_passe>
+    <adresse_facturation>654 Chemin Cinquième</adresse_facturation>
+    <carte_credit>8907654321098765</carte_credit>
+  </client>
+  <client>
+    <id_client>6</id_client>
+    <nom>Petit</nom>
+    <prenom>Marc</prenom>
+    <telephone>0987654321</telephone>
+    <courriel>marc.petit@example.com</courriel>
+    <mot_de_passe>password6</mot_de_passe>
+    <adresse_facturation>987 Autoroute Sixième</adresse_facturation>
+    <carte_credit>5674321098765432</carte_credit>
+  </client>
+  <client>
+    <id_client>7</id_client>
+    <nom>Thomas</nom>
+    <prenom>Laura</prenom>
+    <telephone>0123456789</telephone>
+    <courriel>laura.thomas@example.com</courriel>
+    <mot_de_passe>password7</mot_de_passe>
+    <adresse_facturation>210 Rue Septième</adresse_facturation>
+    <carte_credit>9087654321098765</carte_credit>
+  </client>
+  <client>
+    <id_client>8</id_client>
+    <nom>Robert</nom>
+    <prenom>Christine</prenom>
+    <telephone>0987654321</telephone>
+    <courriel>christine.robert@example.com</courriel>
+    <mot_de_passe>password8</mot_de_passe>
+    <adresse_facturation>543 Avenue Huitième</adresse_facturation>
+    <carte_credit>4321098765432109</carte_credit>
+  </client>
+  <client>
+    <id_client>9</id_client>
+    <nom>Richard</nom>
+    <prenom>David</prenom>
+    <telephone>0123456789</telephone>
+    <courriel>david.richard@example.com</courriel>
+    <mot_de_passe>password9</mot_de_passe>
+    <adresse_facturation>876 Boulevard Neuvième</adresse_facturation>
+    <carte_credit>1098765432109876</carte_credit>
+  </client>
+  <client>
+    <id_client>10</id_client>
+    <nom>Moreau</nom>
+    <prenom>Isabelle</prenom>
+    <telephone>0987654321</telephone>
+    <courriel>isabelle.moreau@example.com</courriel>
+    <mot_de_passe>password10</mot_de_passe>
+    <adresse_facturation>109 Rue Dixième</adresse_facturation>
+    <carte_credit>7654321098765432</carte_credit>
+  </client>
+</DocumentElement>

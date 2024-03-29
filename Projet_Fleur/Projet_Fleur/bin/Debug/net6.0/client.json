@@ -1,0 +1,32 @@
+[
+  {
+    "id_client": 8,
+    "nom": "Bouchard",
+    "prenom": "Emilie",
+    "telephone": "514-888-8888",
+    "courriel": "emilie.bouchard@gmail.com",
+    "mot_de_passe": "MotDePasse8",
+    "adresse_facturation": "1515 boulevard de Maisonneuve, Montréal, QC",
+    "carte_credit": "2222333344445555"
+  },
+  {
+    "id_client": 9,
+    "nom": "Fournier",
+    "prenom": "Guillaume",
+    "telephone": "514-999-9999",
+    "courriel": "guillaume.fournier@gmail.com",
+    "mot_de_passe": "MotDePasse9",
+    "adresse_facturation": "1616 rue Sainte-Catherine, Montréal, QC",
+    "carte_credit": "6666777788889999"
+  },
+  {
+    "id_client": 11,
+    "nom": "Gauthier",
+    "prenom": "Sophie",
+    "telephone": "514-111-1111",
+    "courriel": "sophie.gauthier@gmail.com",
+    "mot_de_passe": "MotDePasse10",
+    "adresse_facturation": "1717 rue Saint-Denis, Montréal, QC",
+    "carte_credit": "3333444455556666"
+  }
+]

@@ -1,0 +1,42 @@
+<DocumentElement>
+  <produit>
+    <id_produit>1</id_produit>
+    <nom>Rose</nom>
+    <description>Belle rose rouge</description>
+    <prix>10.99</prix>
+    <quantitéDisponible>100</quantitéDisponible>
+    <disponibilité>Disponible</disponibilité>
+  </produit>
+  <produit>
+    <id_produit>2</id_produit>
+    <nom>Lys</nom>
+    <description>Élégant lys blanc</description>
+    <prix>15.99</prix>
+    <quantitéDisponible>50</quantitéDisponible>
+    <disponibilité>Disponible</disponibilité>
+  </produit>
+  <produit>
+    <id_produit>3</id_produit>
+    <nom>Tulipe</nom>
+    <description>Colorée tulipe multicolore</description>
+    <prix>8.99</prix>
+    <quantitéDisponible>75</quantitéDisponible>
+    <disponibilité>Disponible</disponibilité>
+  </produit>
+  <produit>
+    <id_produit>4</id_produit>
+    <nom>Orchidée</nom>
+    <description>Magnifique orchidée violette</description>
+    <prix>19.99</prix>
+    <quantitéDisponible>25</quantitéDisponible>
+    <disponibilité>Disponible</disponibilité>
+  </produit>
+  <produit>
+    <id_produit>5</id_produit>
+    <nom>Marguerite</nom>
+    <description>Fleur de marguerite blanche</description>
+    <prix>6.99</prix>
+    <quantitéDisponible>80</quantitéDisponible>
+    <disponibilité>Disponible</disponibilité>
+  </produit>
+</DocumentElement>

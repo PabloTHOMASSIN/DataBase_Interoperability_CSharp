@@ -1,0 +1,72 @@
+<DocumentElement>
+  <magasin>
+    <id_magasin>1</id_magasin>
+    <nom>Magasin A</nom>
+    <adresse>123 Rue Principale</adresse>
+    <bouquet_standard_id>1</bouquet_standard_id>
+    <produit_id>1</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>2</id_magasin>
+    <nom>Magasin B</nom>
+    <adresse>456 Avenue Secondaire</adresse>
+    <bouquet_standard_id>2</bouquet_standard_id>
+    <produit_id>3</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>3</id_magasin>
+    <nom>Magasin C</nom>
+    <adresse>789 Boulevard Tertiaire</adresse>
+    <bouquet_standard_id>3</bouquet_standard_id>
+    <produit_id>2</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>4</id_magasin>
+    <nom>Magasin D</nom>
+    <adresse>321 Route Quaternaire</adresse>
+    <bouquet_standard_id>4</bouquet_standard_id>
+    <produit_id>4</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>5</id_magasin>
+    <nom>Magasin E</nom>
+    <adresse>654 Chemin Cinquième</adresse>
+    <bouquet_standard_id>5</bouquet_standard_id>
+    <produit_id>5</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>10</id_magasin>
+    <nom>Magasin A</nom>
+    <adresse>123 Rue Principale</adresse>
+    <bouquet_standard_id>1</bouquet_standard_id>
+    <produit_id>1</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>22</id_magasin>
+    <nom>Magasin B</nom>
+    <adresse>456 Avenue Secondaire</adresse>
+    <bouquet_standard_id>2</bouquet_standard_id>
+    <produit_id>3</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>33</id_magasin>
+    <nom>Magasin C</nom>
+    <adresse>789 Boulevard Tertiaire</adresse>
+    <bouquet_standard_id>3</bouquet_standard_id>
+    <produit_id>2</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>44</id_magasin>
+    <nom>Magasin D</nom>
+    <adresse>321 Route Quaternaire</adresse>
+    <bouquet_standard_id>4</bouquet_standard_id>
+    <produit_id>4</produit_id>
+  </magasin>
+  <magasin>
+    <id_magasin>55</id_magasin>
+    <nom>Magasin E</nom>
+    <adresse>654 Chemin Cinquième</adresse>
+    <bouquet_standard_id>5</bouquet_standard_id>
+    <produit_id>5</produit_id>
+  </magasin>
+</DocumentElement>

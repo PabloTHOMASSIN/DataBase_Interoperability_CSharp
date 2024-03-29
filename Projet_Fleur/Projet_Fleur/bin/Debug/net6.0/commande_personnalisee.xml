@@ -1,0 +1,62 @@
+<DocumentElement>
+  <commande_personnalisee>
+    <id_commande_personnalisee>15</id_commande_personnalisee>
+    <date_commande>2023-04-20T00:00:00+02:00</date_commande>
+    <date_livraison>2023-04-25T00:00:00+02:00</date_livraison>
+    <adresse_livraison>123 Rue Principale</adresse_livraison>
+    <message_accompagnement>Joyeux anniversaire !</message_accompagnement>
+    <montant_total>59.99</montant_total>
+    <etat>VINV</etat>
+    <client_id>1</client_id>
+    <magasin_id>1</magasin_id>
+    <produit_id>4</produit_id>
+  </commande_personnalisee>
+  <commande_personnalisee>
+    <id_commande_personnalisee>24</id_commande_personnalisee>
+    <date_commande>2023-04-21T00:00:00+02:00</date_commande>
+    <date_livraison>2023-04-26T00:00:00+02:00</date_livraison>
+    <adresse_livraison>456 Avenue Secondaire</adresse_livraison>
+    <message_accompagnement>Félicitations pour la promotion !</message_accompagnement>
+    <montant_total>39.99</montant_total>
+    <etat>CC</etat>
+    <client_id>2</client_id>
+    <magasin_id>2</magasin_id>
+    <produit_id>2</produit_id>
+  </commande_personnalisee>
+  <commande_personnalisee>
+    <id_commande_personnalisee>34</id_commande_personnalisee>
+    <date_commande>2023-04-22T00:00:00+02:00</date_commande>
+    <date_livraison>2023-04-27T00:00:00+02:00</date_livraison>
+    <adresse_livraison>789 Boulevard Tertiaire</adresse_livraison>
+    <message_accompagnement>Bon rétablissement !</message_accompagnement>
+    <montant_total>29.99</montant_total>
+    <etat>CPAV</etat>
+    <client_id>3</client_id>
+    <magasin_id>3</magasin_id>
+    <produit_id>3</produit_id>
+  </commande_personnalisee>
+  <commande_personnalisee>
+    <id_commande_personnalisee>43</id_commande_personnalisee>
+    <date_commande>2023-04-23T00:00:00+02:00</date_commande>
+    <date_livraison>2023-04-28T00:00:00+02:00</date_livraison>
+    <adresse_livraison>321 Route Quaternaire</adresse_livraison>
+    <message_accompagnement>Joyeux Noël !</message_accompagnement>
+    <montant_total>49.99</montant_total>
+    <etat>CAL</etat>
+    <client_id>4</client_id>
+    <magasin_id>4</magasin_id>
+    <produit_id>5</produit_id>
+  </commande_personnalisee>
+  <commande_personnalisee>
+    <id_commande_personnalisee>54</id_commande_personnalisee>
+    <date_commande>2023-04-24T00:00:00+02:00</date_commande>
+    <date_livraison>2023-04-29T00:00:00+02:00</date_livraison>
+    <adresse_livraison>654 Chemin Cinquième</adresse_livraison>
+    <message_accompagnement>Bonne fête des mères !</message_accompagnement>
+    <montant_total>19.99</montant_total>
+    <etat>CL</etat>
+    <client_id>5</client_id>
+    <magasin_id>5</magasin_id>
+    <produit_id>1</produit_id>
+  </commande_personnalisee>
+</DocumentElement>

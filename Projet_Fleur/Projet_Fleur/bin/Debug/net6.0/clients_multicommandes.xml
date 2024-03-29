@@ -1,0 +1,12 @@
+<DocumentElement>
+  <Client>
+    <id_client>10</id_client>
+    <nom>Gauthier</nom>
+    <prenom>Sophie</prenom>
+    <telephone>514-111-1111</telephone>
+    <courriel>sophie.gauthier@gmail.com</courriel>
+    <mot_de_passe>MotDePasse10</mot_de_passe>
+    <adresse_facturation>1717 rue Saint-Denis, Montréal, QC</adresse_facturation>
+    <carte_credit>3333444455556666</carte_credit>
+  </Client>
+</DocumentElement>

@@ -1,0 +1,42 @@
+<DocumentElement>
+  <bouquet_standard>
+    <id_bouquet_standard>1</id_bouquet_standard>
+    <nom>Bouquet Romantique</nom>
+    <description>Un bouquet romantique composé de roses rouges</description>
+    <prix>39.99</prix>
+    <catégorie>Romantique</catégorie>
+    <produit_id>1</produit_id>
+  </bouquet_standard>
+  <bouquet_standard>
+    <id_bouquet_standard>2</id_bouquet_standard>
+    <nom>Bouquet Printanier</nom>
+    <description>Un bouquet frais et coloré pour célébrer le printemps</description>
+    <prix>29.99</prix>
+    <catégorie>Printemps</catégorie>
+    <produit_id>3</produit_id>
+  </bouquet_standard>
+  <bouquet_standard>
+    <id_bouquet_standard>3</id_bouquet_standard>
+    <nom>Bouquet Élégant</nom>
+    <description>Un bouquet élégant avec des lys blancs</description>
+    <prix>49.99</prix>
+    <catégorie>Élégant</catégorie>
+    <produit_id>2</produit_id>
+  </bouquet_standard>
+  <bouquet_standard>
+    <id_bouquet_standard>4</id_bouquet_standard>
+    <nom>Bouquet Exotique</nom>
+    <description>Un bouquet exotique avec des orchidées violettes</description>
+    <prix>59.99</prix>
+    <catégorie>Exotique</catégorie>
+    <produit_id>4</produit_id>
+  </bouquet_standard>
+  <bouquet_standard>
+    <id_bouquet_standard>5</id_bouquet_standard>
+    <nom>Bouquet Champêtre</nom>
+    <description>Un bouquet champêtre avec des marguerites blanches</description>
+    <prix>19.99</prix>
+    <catégorie>Champêtre</catégorie>
+    <produit_id>5</produit_id>
+  </bouquet_standard>
+</DocumentElement>
